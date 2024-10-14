@@ -1,9 +1,9 @@
-﻿using System;
-using System.Web.UI;
+using System;
+using System.Web.UI.WebControls;
 
-namespace Teste_C
+namespace Conversor
 {
-    public partial class Teste : Page
+    public partial class Conversor_Temperatura : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
