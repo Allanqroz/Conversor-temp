@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Teste.aspx.cs" Inherits="Teste_C.Teste" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Conversor Temperatura.aspx.cs" Inherits="Conversor.Conversor_Temperatura" %>
 
 <!DOCTYPE html>
 <html lang="pt-BR">
